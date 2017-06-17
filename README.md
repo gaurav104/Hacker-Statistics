@@ -8,7 +8,7 @@ if outcome = 1,2
  eise if outcome = 3,4,5
   take a step up,
  else if outcome = 6
-  roll the dice again and take the number of steps up that comes up on the dice on the second through after getting six
+  roll the dice again and take the number of steps up that comes up on the dice on the second throw after getting six
   
   we conduct this experiment several times to get last steps or the floor at which we reach finally after rolling the dice 100 times
   i.e dice is thrown 100 times in sets of several to get the final floor number after each set.
